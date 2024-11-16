@@ -1,0 +1,20 @@
+.body{
+    background-color: grey;
+}
+
+.profile{
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    border-radius: 100%;
+    padding: 40px;
+}
+.p1{
+    font-size: 40px;
+    font-weight: lighter;
+    margin: 0px;
+    margin-top: 10px;
+}
+
+
+
